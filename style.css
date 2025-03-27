@@ -3,7 +3,7 @@ body {
 }
 .card {
     margin: auto;
-    margin-top: 10%;
+    margin-top: 15%;
     margin-bottom: 3%;
     background-color: hsl(0, 0%, 100%);
     max-width: 21rem;
